@@ -11,7 +11,7 @@ Le projet vise à développer une **plateforme d’apprentissage en ligne** perm
 - **Feedback interactif** : Les utilisateurs peuvent laisser des retours sur la qualité et la pertinence des cours.  
 - **Système de votes** : Les feedbacks peuvent être évalués pour indiquer leur utilité.  
 - **Gestion avancée pour les administrateurs** :  
-  - Supervision des cours.  
+  - Supervision des cours (ajout , modification...).  
   - Gestion des feedbacks et des votes pour garantir la qualité des formations proposées.  
 
 L’objectif principal est de faciliter un **apprentissage collaboratif et interactif**, en fournissant un environnement où **étudiants** et **formateurs** peuvent échanger des idées et des évaluations sur les cours suivis.  
