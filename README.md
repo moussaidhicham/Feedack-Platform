@@ -52,12 +52,4 @@ Le projet repose sur une **architecture moderne**, utilisant des technologies ro
 
 ---
 
-## Comment Contribuer :  
-Les contributions sont les bienvenues pour améliorer la plateforme ! Vous pouvez :  
-1. **Créer une issue** pour signaler un problème ou suggérer une amélioration.  
-2. **Soumettre une pull request** avec vos modifications.  
 
----
-
-## License :  
-Ce projet est sous licence [MIT](LICENSE).  
